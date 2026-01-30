@@ -9,7 +9,7 @@
 
 <h1>Hey there! </h1>
 <h3>I'm a curious mind who loves exploring data and uncovering hidden insights. 📊</h3> 
-<p>I enjoy building projects, solving problems, and improving things step by step.</p>
+<h3>I enjoy building projects, solving problems, and improving things step by step.<h3>
 <h3>🚀 Always learning, always growing — welcome to my GitHub!</h3>
 
 

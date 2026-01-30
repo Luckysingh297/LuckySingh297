@@ -27,12 +27,14 @@
 ---
 
 ##  How to reach me  
- Email: **your-email@gmail.com**  
- LinkedIn: **your-linkedin-link**  
+ Email: ** [rajputlucky575@gmail.com](mailto:rajputlucky575@gmail.com)**  
+ LinkedIn: **[lucky-singh-7153b517b](https://www.linkedin.com/in/lucky-singh-7153b517b/**  
 
 ---
 
-##  Languages & Tools  
+## 🛠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,vscode" />
 </p>
+
+✅ Pandas | ✅ Scikit-learn | ✅ Seaborn

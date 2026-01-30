@@ -27,8 +27,21 @@
 ---
 
 ##  How to reach me  
- Email: ** [rajputlucky575@gmail.com](mailto:rajputlucky575@gmail.com)**  
- LinkedIn: **[lucky-singh-7153b517b](https://www.linkedin.com/in/lucky-singh-7153b517b/**  
+## 🌐 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucky-singh-7153b517b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:rajputlucky575@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://github.com/Luckysingh297" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+ 
 
 ---
 
